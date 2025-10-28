@@ -1,0 +1,11 @@
+  /* bu salom berishda ishlatilayotgan divimiz */
+.salom{
+text-align: center;
+
+}
+/* bu orqa foniga ishlov bergan divimiz */
+.sarlovha{
+    background-color: aqua;
+    border-radius: 200px;
+   
+}
